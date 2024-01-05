@@ -1,6 +1,6 @@
 Solution 1:
 
-```csharp
+```c#
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         // HashMap
