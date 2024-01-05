@@ -18,7 +18,7 @@ public class Solution {
 ```
 
 Solution 2:
-```csharp
+```cs
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         // double for loop 暴力枚举
