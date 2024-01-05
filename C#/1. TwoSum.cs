@@ -1,6 +1,6 @@
 Solution 1:
 
-```cs
+
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         // HashMap
@@ -15,10 +15,10 @@ public class Solution {
         
     }
 }
-```
+
 
 Solution 2:
-```cs
+
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         // double for loop 暴力枚举
@@ -37,4 +37,4 @@ public class Solution {
     }
 
 }
-```
+
